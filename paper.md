@@ -61,7 +61,7 @@ In this paper we describe a new open-source visualization tool, Minerva, which f
 
 Minerva is designed to generate precisely these types of interactive guides or "stories". The author of a story creates specific waypoints in the image each with a text description, position, zoom level, and overlaid shape annotations. In the case of highly multiplexed images, a subset of channels is chosen for display at each waypoint (typically 4-8 superimposed channels). Authors also add interactive single-cell data scatterplots, bar charts, heatmaps, and cell outlines with two-way linked navigation between the plots and points in the image. Minerva is deployed simply and inexpensively via static web hosting. See Figure 1 for a schematic of the workflow and system components.
 
-![Minerva Workflow.\label{fig:workflow}](figure-1.pdf)
+![Minerva Workflow.\label{fig:example}](figure-1.pdf)
 
 Minerva is not designed to solve all analytical and visualization problems encountered in multiplexed tissue imaging. Instead, it is a publication tool specialized to the task of making data shareable and broadly intelligible without requiring specialized software on the user side. As such, Minerva is designed to be one component in an ecosystem of interoperable, open-source software tools.
 
