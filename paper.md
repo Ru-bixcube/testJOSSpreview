@@ -19,7 +19,6 @@ authors:
       orcid: 0000-0001-7228-4696
       affiliation: "1, 2"
     - name: Douglas Peter William Russell
-      orcid:
       affiliation: 4
     - name: Juha Ruokonen
       orcid: 0000-0002-6381-121X
